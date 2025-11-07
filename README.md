@@ -1,10 +1,11 @@
 # StrengthX – Strengthen Your Passwords
 
 **Project Members:**  
-- Haroon K M  
-- Balamurugan T  
-- Sujay S  
-- Enbachozhan V  
+- Haroon K M  (Backend Developer)
+- Balamurugan T  (Backend Developer)
+- Sujay S  (Frontend Developer)
+- Enbachozhan V (Documentation)
+- Harikrishnan V (Security Engineer)
 
 ---
 
